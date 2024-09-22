@@ -1,0 +1,71 @@
+{
+    "categories": [
+        {
+            "id": 123,
+            "name": "Mobile",
+            "image": "src/data/Image/Mobile.png",
+            "status": "active"
+        },
+        {
+            "id": 124,
+            "name": "Laptop",
+            "image": "src/data/Image/Laptop.png",
+            "status": "inactive"
+        },
+        {
+            "id": 125,
+            "name": "Grocery",
+            "image": "src/data/Image/Grocery.png",
+            "status": "active"
+        }
+    ],
+    "Subcategory": [
+        {
+            "id": 123,
+            "Subcategory": "Motorola",
+            "name": "Mobile",
+            "image": "src/data/Image/motorola.png",
+            "status": "active"
+        },
+        {
+            "id": 124,
+            "Subcategory": "HP",
+            "name": "Laptop",
+            "image": "src/data/Image/HP.png",
+            "status": "inactive"
+        },
+        {
+            "id": 125,
+            "Subcategory": "fruit",
+            "name": "Grocery",
+            "image": "src/data/Image/fruit.png",
+            "status": "active"
+        }
+    ],
+    "Product": [
+        {
+            "id": 123,
+            "Product": "Motorola edge",
+            "Subcategory": "Motorola",
+            "name": "Mobile",
+            "image": "src/data/Image/motorola.png",
+            "status": "active"
+        },
+        {
+            "id": 124,
+            "Product": "HP Pavillion",
+            "Subcategory": "HP",
+            "name": "Laptop",
+            "image": "src/data/Image/HP.png",
+            "status": "inactive"
+        },
+        {
+            "id": 125,
+            "Product": "Apple",
+            "Subcategory": "fruit",
+            "name": "Grocery",
+            "image": "src/data/Image/fruit.png",
+            "status": "active"
+        }
+    ]
+}
